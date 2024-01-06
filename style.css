@@ -18,7 +18,8 @@
 }
 
 @media (max-width:768px) {
-  .details { text-align: center;
+  .details {
+    text-align: center;
   }
 }
 .main-page {
@@ -114,7 +115,7 @@
   font-size: 18px;
   width: 226px;
 }
-.list-item >    .input-task {
+.list-item > .input-task {
   width: 226px;
 }
 .delete-img {
